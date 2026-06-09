@@ -22,6 +22,7 @@ Runs basic UI tests on a demo e-commerce site (SauceDemo)
 
 ## Project Structure
 
+```text
 qa-automation-lab/
 │
 ├── pages/
@@ -40,6 +41,7 @@ qa-automation-lab/
 ├── README.md
 ├── .gitignore
 └── screenshots/
+```
 
 ## Setup
 
