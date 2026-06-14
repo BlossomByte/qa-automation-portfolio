@@ -1,6 +1,6 @@
 # QA Automation Lab
 
-Built using **Python + Playwright + Pytest **. This project focuses on building a simple UI test framework using Project Object Model (POM).
+Built using Python + Playwright + Pytest . This project focuses on building a simple UI test framework using Project Object Model (POM).
 
 ## Tech Stack
 - Python
